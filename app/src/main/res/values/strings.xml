@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">704订餐</string>
+    <string name="首页">首页</string>
+    <string name="订单">订单</string>
+    <string name="菜单">菜单</string>
+    <string name="个人">个人</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="空位">空位</string>
+    <string name="以坐">已坐</string>
+    <string name="备注">备注:</string>
+    <string name="密码">密码:</string>
+    <string name="账号">账号:</string>
+    <string name="下单时间">下单时间:</string>
+    <string name="总价">总价:</string>
+</resources>
